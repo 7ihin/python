@@ -1,0 +1,1 @@
+print("Three"*3)
