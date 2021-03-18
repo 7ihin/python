@@ -1,1 +1,0 @@
-print("Three"*3)
