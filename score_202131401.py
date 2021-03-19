@@ -26,7 +26,7 @@ def Score():
    elif total < 60:
         grade = "F"
     
-   print("\n과제점수 = %.2f ( 반영비율 0.4 )"%num)
+   print("\n과제점수 = %.2f ( 반영비율 0.4 )"%n)
    print("중간점수 = %.2f ( 반영비율 0.3 )"%m)
    print("기말점수 = %.2f ( 반영비율 0.3 )"%f)
    print("합계 = %.2f"%(n+m+f))
